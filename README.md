@@ -20,7 +20,7 @@ Before running this application, make sure you have the following installed:
 ## Getting Started
 1. Clone this repository:
 ```
-git clone https://github.com/chakraborty-arnab/Chat_w_me.git
+git clone https://github.com/chakraborty-arnab/Finbot.git
 ```
 
 2. Download [Ollama](https://ollama.com/)
