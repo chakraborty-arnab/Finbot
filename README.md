@@ -35,3 +35,14 @@ pip install -r requirements.txt
 ```
 streamlit run chatbot.py
 ```
+## How to Use
+
+- Type your message in the input box and click "Send" or press Enter to submit.
+- The AI assistant will generate a response based on the conversation history.
+- Use the "Clear Chat" button to start a new conversation.
+- Click on the GitHub or LinkedIn icons at the bottom of the page to visit the developer's profiles.
+
+## Customization
+
+- To modify the system prompt, edit the `system_prompt` variable in the `chatbot.py` file.
+- To change the appearance, modify the CSS in the `st.markdown` section at the beginning of the script.
