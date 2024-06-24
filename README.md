@@ -24,11 +24,6 @@ git clone https://github.com/chakraborty-arnab/Chat_w_me.git
 ```
 
 2. Download [Ollama](https://ollama.com/)
-### Install dependencies
-```
-pip install -r requirements.txt
-```
-
  **Note:** Ensure your local LLM is running and accessible at `http://localhost:11434/api/generate`.
 
 3. Install Requirements
