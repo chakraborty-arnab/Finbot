@@ -48,6 +48,8 @@ streamlit run chatbot.py
 - To modify the system prompt, edit the `system_prompt` variable in the `chatbot.py` file.
 - To change the appearance, modify the CSS in the `st.markdown` section at the beginning of the script.
 
+## Link to Demo: https://youtu.be/r26nrkhH7YE
+
 ## Disclaimer
 The Financial Assistant Chatbot is intended for educational and informational purposes only. It is not a substitute for professional financial advice. Always consult with a certified financial advisor for specific financial advice and recommendations.
 - Not a Certified Financial Advisor: The chatbot is not a certified financial advisor and cannot provide specific investment recommendations or predictions.
