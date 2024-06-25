@@ -8,7 +8,6 @@ General Financial Information: Get answers to your questions about personal fina
 - Chat history management
 - Clear conversation functionality
 - Dark theme UI
-- GitHub and LinkedIn profile links
 
 ## Prerequisites
 
