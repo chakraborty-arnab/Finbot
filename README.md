@@ -2,11 +2,7 @@
 This chatbot is designed to help you navigate the complex world of personal finance, investing, banking, taxes, and economics. With a focus on promoting financial literacy and responsible financial practices, the chatbot aims to educate and assist users in making informed financial decisions.
 
 ## Features
-- General Financial Information: Get answers to your questions about personal finance, investing, banking, taxes, and economics.
-- Clear Explanations: Financial concepts are explained in an easy-to-understand manner, avoiding jargon whenever possible.
-- Risk Awareness: Learn about the risks associated with financial decisions and the importance of consulting with professional advisors.
-- Promotion of Financial Literacy: The chatbot aims to improve your financial literacy and encourage responsible financial practices.
-- Educational Assistance: The goal is to help you understand financial concepts to support your decision-making process.
+General Financial Information: Get answers to your questions about personal finance, investing, banking, taxes, and economics.
 - Interactive chat interface
 - Integration with a local LLM
 - Chat history management
