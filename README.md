@@ -42,13 +42,12 @@ streamlit run chatbot.py
 - The AI assistant will generate a response based on the conversation history.
 - Use the "Clear Chat" button to start a new conversation.
 - Click on the GitHub or LinkedIn icons at the bottom of the page to visit the developer's profiles.
+- [Video Demo Link](https://youtu.be/r26nrkhH7YE)
 
 ## Customization
 
 - To modify the system prompt, edit the `system_prompt` variable in the `chatbot.py` file.
 - To change the appearance, modify the CSS in the `st.markdown` section at the beginning of the script.
-
-## Link to Demo: https://youtu.be/r26nrkhH7YE
 
 ## Disclaimer
 The Financial Assistant Chatbot is intended for educational and informational purposes only. It is not a substitute for professional financial advice. Always consult with a certified financial advisor for specific financial advice and recommendations.
