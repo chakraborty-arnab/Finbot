@@ -25,8 +25,8 @@ git clone https://github.com/chakraborty-arnab/Finbot.git
 2. Download [Ollama](https://ollama.com/)
 
  **Note:** 
-a. Ensure your local LLM is running and accessible at `http://localhost:11434/api/generate`.
-b. Underlying Model used: Llama 3
+- Ensure your local LLM is running and accessible at `http://localhost:11434/api/generate`.
+- Underlying Model used: Llama 3
 
 3. Install Requirements
 ```
