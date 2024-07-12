@@ -160,12 +160,6 @@ if st.button("Send", key="send_button") and prompt:
     except requests.exceptions.RequestException as e:
         st.error(f"An error occurred: {e}")
 
-import streamlit as st
-
-# ... (rest of your code remains the same)
-
-# At the end of your script, add:
-
 # Add some space at the bottom
 st.markdown("<br><br>", unsafe_allow_html=True)
 
